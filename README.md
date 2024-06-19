@@ -1,5 +1,3 @@
-# percorsominimo
-Uso dell'algoritmo di Dijkstra per determinare il percorso minimo tra nodi
 Spiegazione del codice
 Import delle librerie necessarie
 
